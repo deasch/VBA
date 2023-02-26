@@ -1,4 +1,4 @@
-Attribute VB_Name = "Module1"
+Attribute VB_Name = "function"
 'Option Explicit
 
 Function func_GetNumeric(CellRef As String) as Long
